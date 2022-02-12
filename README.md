@@ -1,2 +1,2 @@
 # Timer
-A basic Shitty as timer I made in around an hour
+A basic Shitty ass timer I made in around an hour
